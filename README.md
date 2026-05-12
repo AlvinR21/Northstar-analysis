@@ -1,6 +1,7 @@
 # Northstar-analysis
 Database and analytics coursework - North Star case study
 Module: Databases and Analytics
+
 Author: Wiritpon Reanracha
 Student ID: 33114046
 # Overview
