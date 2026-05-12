@@ -1,5 +1,6 @@
 # Northstar-analysis
 Database and analytics coursework - North Star case study
+
 Module: Databases and Analytics
 
 Author: Wiritpon Reanracha
@@ -19,9 +20,9 @@ Each notebook in this repository contributes part of the analytical pipeline. Th
 # Google Colab links:
 SQL in R 
 https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-MongoDB 
-https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-R analytics 
-https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-Python 
-https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+
+MongoDB https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+
+R analytics https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+
+Python https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
