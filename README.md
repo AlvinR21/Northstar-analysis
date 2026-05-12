@@ -17,7 +17,11 @@ The analysis investigates four core questions raised in the case study:
 Each notebook in this repository contributes part of the analytical pipeline. The accompanying report submitted separately as a PDF file presents the findings, design decisions, and recommendations.
 
 # Google Colab links:
-SQL in R https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-MongoDB https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-R analytics https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
-Python https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+SQL in R 
+https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+MongoDB 
+https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+R analytics 
+https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
+Python 
+https://colab.research.google.com/drive/1NzPOcl9YtnzP1BVT2SROJdcXkuObggTV?usp=share_link
