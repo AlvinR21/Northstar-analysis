@@ -1,10 +1,8 @@
 # Northstar-analysis
 Database and analytics coursework - North Star case study
-
 Module: Databases and Analytics
 Author: Wiritpon Reanracha
 Student ID: 33114046
-
 # Overview
 This repository contains my coursework for the Databases and Analytics module. The brief required me to analyse a fragmented data environment at NorthStar Urban Mobility and Logistics a regional UK transport and logistics company and produce an integrated analytical solution using SQL, R, Python, and MongoDB Atlas.
 
